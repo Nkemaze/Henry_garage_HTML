@@ -1,0 +1,37 @@
+# Robots.txt for Henri Garage
+# Website: https://henrigarage.com
+# Garage Automobile à Yaoundé, Cameroun
+
+User-agent: *
+Allow: /
+
+# Disallow private directories
+Disallow: /assets/
+Disallow: /assets/css/
+Disallow: /assets/js/
+Disallow: /assets/images/
+
+# Allow images for SEO
+Allow: /assets/images/*.jpg
+Allow: /assets/images/*.jpeg
+Allow: /assets/images/*.png
+
+# Sitemap location
+Sitemap: https://henrigarage.com/sitemap.xml
+
+# Crawl-delay (optional, uncomment if needed)
+# Crawl-delay: 10
+
+# Host preference
+Host: https://henrigarage.com
+
+# Language preferences
+User-agent: Googlebot
+Allow: /
+User-agent: Bingbot
+Allow: /
+User-agent: DuckDuckBot
+Allow: /
+User-agent: Yandex
+Allow: /
+
