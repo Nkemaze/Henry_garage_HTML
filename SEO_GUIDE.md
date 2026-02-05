@@ -58,7 +58,7 @@ Replace: https://your-actual-domain.com
 3. Fill in:
    - Business name: Henri Garage
    - Address: Yaoundé, Cameroun
-   - Phone: 675 097 329 / 691 509 578
+   - Phone: 675 067 329 / 691 509 578
    - Hours: Lun-Sam 8h-18h
    - Services: All your services
 4. Add photos of your garage
